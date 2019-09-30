@@ -1,0 +1,8 @@
+What is a Raspberry pi?
+What is the difference between Raspberry pi and Arduino?
+What is a NAND gate?
+How many digital pins are there on the UNO board?
+Which software or a programming language is used for controlling Arduino?
+Does Raspberry pi have an internal memory?
+What bit processor is used in Raspberry pi 3?
+How many USB ports are present in Raspberry Pi 3?

@@ -1,0 +1,7 @@
+What is difference between front end and back end programming?
+What languages will you use to design front end of a website?
+How can you reduce webpage load time?
+What is the difference between frame and div in html?
+What are cookies?
+What are the web technologies that you are proficient in?
+How are your SQL skills?

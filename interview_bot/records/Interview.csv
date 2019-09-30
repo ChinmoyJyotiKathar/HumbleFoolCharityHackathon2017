@@ -1,0 +1,43 @@
+"I am Sid, your virtual questioner. Tell me what motivates you about tech.",i am from xyz college,,0
+Please explain what you did in the project named ML proejct,it was a data science project in which i used pandas and numpy,,0
+"What is logistic regression?
+",logistic regression is a machine learning model that is used for the task of classification,"Logistic Regression often referred as logit model is a technique to predict the binary outcome from a linear combination of predictor variables.
+",0.8120222178147575
+"What is difference between supervised and unsupervised learning?
+",supervised learning reqires labelled data unsupervised does not require labelled data,"Supervised learning is one of the methods associated with machine learning which involves allocating labeled data so that a certain pattern or function can be deduced from that data. Unsupervised learning is the second method of machine learning algorithm where inferences are drawn from unlabeled input data.
+",0.9014448380537333
+"What is training set and test set?
+",training set is set used to train the parameters of a model while test set is used to evaluate the model,"Training set is a set of examples used for learning, that is to fit the parameters. Test set is the set of examples used only to assess the performance
+",0.9188901298528819
+"What is a normal distribution?
+",normal distribution is like climbing the himalayas,"Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data near the mean are more frequent in occurrence than data far from the mean. In graph form, normal distribution will appear as a bell curve.
+",0.6656503221626283
+"I am Sid, your virtual questioner. Please introduce yourself.",i am awesome,,0
+How well are you versed in excel,very well,,0
+"What are the web technologies that you are proficient in?
+",I am efficient in javascript,"Proficient in html css php sql javascript
+",0.8692135218942809
+"What is difference between supervised and unsupervised learning?
+",one is labeled and the other is not,"Supervised learning is one of the methods associated with machine learning which involves allocating labeled data so that a certain pattern or function can be deduced from that data. Unsupervised learning is the second method of machine learning algorithm where inferences are drawn from unlabeled input data.
+",0.3999465067883554
+"What is a normal distribution?
+",i'm not sure what it is,"Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data near the mean are more frequent in occurrence than data far from the mean. In graph form, normal distribution will appear as a bell curve.
+",0.0
+"What is difference between front end and back end programming?
+",front end means UI design and back end means the server code,"Frontend is the part of the website that you can see and interact with directly in order to receive the backend capabilities of the system. It involves everything that the user can see, touch and experience.Backend, also referred to as the “server-side”, is the part of the website which you cannot see and interact with. Basically, everything that happens behind the scenes can be attributed to the backend web development.
+",0.8164152733301612
+"I am Sid, your virtual questioner. Tell me what motivates you about tech.",hello i like new technologies that help people,,0
+Your project seems intersting. Can you please explain about interview bot,it was a project based on gpio pins and some data handling,,0
+"I am Sid, your virtual questioner. Tell me about yourself.",hi i am a final year student at iitg,,0
+Please explain what you did in the project named machine learning project,i collected data and did some analysis on it,,0
+"What is training set and test set?
+",training set is used by model to learn parameters and test set is used to evaluate,"Training set is a set of examples used for learning, that is to fit the parameters. Test set is the set of examples used only to assess the performance
+",0.950060277177106
+"What is a normal distribution?
+",it was a sunny day,"Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data near the mean are more frequent in occurrence than data far from the mean. In graph form, normal distribution will appear as a bell curve.
+",0.33463530471861147
+"I am Sid, your virtual questioner. Please introduce yourself.",sad,,0
+can you please brief me about your contribution in Online Shopping Website,machine learning,,0
+"What is logistic regression?
+",machine learning,"Logistic Regression often referred as logit model is a technique to predict the binary outcome from a linear combination of predictor variables.
+",0.5066769449292355

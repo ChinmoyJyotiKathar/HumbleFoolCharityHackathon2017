@@ -1,0 +1,7 @@
+Frontend is the part of the website that you can see and interact with directly in order to receive the backend capabilities of the system. It involves everything that the user can see, touch and experience.Backend, also referred to as the “server-side”, is the part of the website which you cannot see and interact with. Basically, everything that happens behind the scenes can be attributed to the backend web development.
+html css javascript for fronted. php sql for backend
+Minify and combine files, reduce image size or replace images with css
+The frame tag is used divide your browser window into multiple sections or frames, each of which can load a separate HTML document. Div is used to group together HTML elements and apply CSS styles to many elements at once.
+An HTTP cookie is a small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is browsing.  They can be used to remember arbitrary pieces of information that the user previously entered into form fields such as names, addresses, passwords, and credit card numbers.
+Proficient in html css php sql javascript
+Can handle select statements, join statements, group by having

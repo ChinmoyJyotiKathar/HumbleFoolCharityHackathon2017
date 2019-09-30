@@ -1,0 +1,10 @@
+What is a normal distribution?
+What is difference between supervised and unsupervised learning?
+What is difference between Clustering and Classification?
+What is training set and test set?
+What are the differences between overfitting and underfitting?
+How does data cleaning plays a vital role in analysis?
+What is Machine Learning?
+What is logistic regression?
+What are Artificial Neural Networks?
+What is the role of Activation Function?

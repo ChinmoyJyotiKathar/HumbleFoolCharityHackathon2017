@@ -1,0 +1,8 @@
+The Raspberry Pi is a very cheap computer that runs Linux, but it also provides a set of GPIO (general purpose input/output) pins that allow you to control electronic components for physical computing and explore the Internet of Things (IoT).  It has all the trappings of a computer, with a dedicated memory, processor, and a graphics card for output through HDMI. 
+The Raspberry Pi has a full operating system, video output, USB ports, networking and audio output built in. However because the Arduino doesn’t have an operating system, it can respond to the real world more quickly and efficiently.
+a Boolean operator which gives the value zero if and only if all the operands have a value of one, and otherwise has a value of one equivalent to NOT AND
+Sixteen pins
+Any programming language like python c cpp assembly
+Yes it has internal memory
+Uses Sixtyfour bit processor
+Three USB ports are present
